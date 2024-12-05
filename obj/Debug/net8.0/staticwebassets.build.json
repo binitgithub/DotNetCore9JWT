@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HOWPIDiQbQNKdQ8FEuDdychc/2kRGhWrzASNkKBJyM8=",
+  "Source": "DotNetCore9JWT",
+  "BasePath": "_content/DotNetCore9JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
